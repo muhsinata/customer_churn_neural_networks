@@ -1,3 +1,3 @@
-# Solving Customer Churn Problem by Neural Networks
+# Customer churn problem
 
-In this project, it is predicted which customers will leave the company by neural networks. 
+This project uses neural networks to predict customer churn.
